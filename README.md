@@ -2,7 +2,6 @@
 
 <br>
 
-
 # Git-CC-001 : Git Operations
 
 Purpose of the this coding challenge is to learn Git basics operations.
@@ -23,7 +22,7 @@ If you have not already done so, set up a GitHub account and send your email or 
 
 ## Problem Statement
 
-1. Clone the repository at https://github.com/clarusway/FS-13-Git-Workshop.git
+1. Clone the repository at https://github.com/clarusway/FS-14-Git-Workshop.git
 
 2. Add a file that describes you and named your_number_name.txt to the **participants** directory.
 
